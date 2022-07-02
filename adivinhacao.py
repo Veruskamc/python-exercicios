@@ -24,5 +24,5 @@ else:
     print ("\nVocê excedeu o número de tentativas. Tente outra vez!")
     
 
-print("\n DS - III MÓDULO\n AT1 - Design de Interfaces\n Veruska de Melo Correia")
+print("JOGUE OUTRA VEZ!")
     
